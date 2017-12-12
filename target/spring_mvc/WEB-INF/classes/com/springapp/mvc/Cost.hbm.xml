@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+    <hibernate-mapping>
+        <class name="com.dhy.entity.Cost" table="cost"> 
+            <id name="id" type="java.lang.Integer" column="COST_ID">
+                <!-- 用来指明主键的生成方式 -->
+                <generator class="sequence">
+                    <param name="sequence">cost_seq</param>
+                </generator>
+            </id>
+            <property name="name" type="java.lang.String" column="NAME"/>
+            <property name="baseDuration" type="java.lang.Integer" column="BASE_DURATION"/>
+            <property name="baseCost" type="java.lang.Double" column="BASE_COST"/>
+            <property name="unitCost" type="java.lang.Double" column="UNIT_COST"/>
+            <property name="status" type="java.lang.String" column="STATUS"/>
+            <property name="descr" type="java.lang.String" column="DESCR"/>
+            <property name="createTime" type="java.sql.Date" column="CREATIME"/>
+            <property name="startTime" type="java.sql.Date" column="STARTIME"/>
+            <property name="costType" type="java.lang.String" column="COST_TYPE"/>
+            
+            
+        </class>
+    </hibernate-mapping>

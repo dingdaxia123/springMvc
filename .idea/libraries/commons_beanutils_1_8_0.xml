@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.8.0">
+    <CLASSES>
+      <root url="jar://F:/jar包/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://F:/jar包/commons-collections-3.2.1.jar!/" />
+      <root url="jar://F:/jar包/commons-lang-2.5.jar!/" />
+      <root url="jar://F:/jar包/commons-logging-1.1.1.jar!/" />
+      <root url="jar://F:/jar包/ezmorph-1.0.6.jar!/" />
+      <root url="jar://F:/jar包/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://F:/jar包/spring-aop-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-beans-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-context-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-core-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-expression-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-jdbc-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-orm-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-tx-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-web-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/spring-webmvc-3.2.8.RELEASE.jar!/" />
+      <root url="jar://F:/jar包/hibernate3.jar!/" />
+      <root url="jar://F:/jar包/aopalliance.jar!/" />
+      <root url="jar://F:/jar包/antlr-2.7.6.jar!/" />
+      <root url="jar://F:/jar包/asm-attrs.jar!/" />
+      <root url="jar://F:/jar包/asm.jar!/" />
+      <root url="jar://F:/jar包/aspectjrt.jar!/" />
+      <root url="jar://F:/jar包/aspectjweaver.jar!/" />
+      <root url="jar://F:/jar包/c3p0-0.9.1.jar!/" />
+      <root url="jar://F:/jar包/cglib-2.1.3.jar!/" />
+      <root url="jar://F:/jar包/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://F:/jar包/commons-collections-2.1.1.jar!/" />
+      <root url="jar://F:/jar包/commons-logging-1.0.4.jar!/" />
+      <root url="jar://F:/jar包/dom4j-1.6.1.jar!/" />
+      <root url="jar://F:/jar包/freemarker.jar!/" />
+      <root url="jar://F:/jar包/hibernate-tools.jar!/" />
+      <root url="jar://F:/jar包/httpclient-4.2.5.jar!/" />
+      <root url="jar://F:/jar包/httpcore-4.4.4.jar!/" />
+      <root url="jar://F:/jar包/jta.jar!/" />
+      <root url="jar://F:/jar包/junit-4.4.jar!/" />
+      <root url="jar://F:/jar包/log4j-1.2.11.jar!/" />
+      <root url="jar://F:/jar包/ojdbc6.jar!/" />
+      <root url="jar://F:/jar包/sign.jar!/" />
+      <root url="jar://F:/jar包/RSAEncrypt.jar!/" />
+      <root url="jar://F:/jar包/rsautils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/jar包/RSAEncrypt.jar!/" />
+    </SOURCES>
+  </library>
+</component>
